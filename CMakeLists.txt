@@ -12,8 +12,8 @@ project(c++_pra)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(c++_pra
-        main.cpp
-        main.h
+        point_hiding/main.cpp
+        point_hiding/main.h
 )
 
 # Add tasks subprojects
