@@ -16,6 +16,8 @@ add_executable(c++_pra
         point_hiding/main.h
         encap/main.h
         encap/main.cpp
+        constructor/main.cpp
+        constructor/main.h
 )
 
 # Add tasks subprojects
